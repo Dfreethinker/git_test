@@ -1,1 +1,1 @@
-this freethinker's first big project!
+this is freethinker's first big project!
